@@ -1,0 +1,1 @@
+This repo includes a Cyclistic bike-share analysis case study. This project is a part of Data Analysis course made by Google. All data and names used in study are ficional. More info included in project summary.
